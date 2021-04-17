@@ -1,0 +1,17 @@
+.flexRow {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.countries {
+    min-width: 180px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.population {
+    min-width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
